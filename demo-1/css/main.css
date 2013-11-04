@@ -55,7 +55,7 @@ html, body{
   height:100vh;
   margin-top:0;
   padding-top:20px;
-  -webkit-shape-outside: polygon(0 0, 100% 0, 40% 100%,  0 100%);
+  shape-outside: polygon(0 0, 100% 0, 40% 100%,  0 100%);
 }
 .content h1 span{
   font-size:.7em;

@@ -19,8 +19,8 @@ html, body{
   font-size:13px;
   background: url(../images/pan.jpg) top left no-repeat;
   background-size:100% 100%;
-  -webkit-shape-inside: circle(400px, 60px, 160px);
-  /*-webkit-shape-inside: url(mask.png) top left;*/
+  shape-inside: circle(400px, 60px, 160px);
+  /*shape-inside: url(mask.png) top left;*/
 }
 .container h2{
   font-family: 'UnifrakturMaguntia', cursive;
